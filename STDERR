@@ -1,0 +1,56 @@
+NEURON -- VERSION 7.3 ansi (1148+:433096832316+) 2014-08-22
+Duke, Yale, and the BlueBrain Project -- Copyright 1984-2014
+See http://www.neuron.yale.edu/neuron/credits
+
+Additional mechanisms from files
+ mod_nsgportal/kdr.mod mod_nsgportal/leak.mod mod_nsgportal/na.mod
+17 /projects/ps-nsg/home/nsguser/applications/neuron73/nrn/INSTALL/x86_64/bin/nrniv: can't open Batch.hoc
+18 /projects/ps-nsg/home/nsguser/applications/neuron73/nrn/INSTALL/x86_64/bin/nrniv: can't open Batch.hoc
+19 /projects/ps-nsg/home/nsguser/applications/neuron73/nrn/INSTALL/x86_64/bin/nrniv: can't open Batch.hoc
+20 /projects/ps-nsg/home/nsguser/applications/neuron73/nrn/INSTALL/x86_64/bin/nrniv: can't open Batch.hoc
+21 /projects/ps-nsg/home/nsguser/applications/neuron73/nrn/INSTALL/x86_64/bin/nrniv: can't open Batch.hoc
+22 /projects/ps-nsg/home/nsguser/applications/neuron73/nrn/INSTALL/x86_64/bin/nrniv: can't open Batch.hoc
+23 /projects/ps-nsg/home/nsguser/applications/neuron73/nrn/INSTALL/x86_64/bin/nrniv: can't open Batch.hoc
+13 /projects/ps-nsg/home/nsguser/applications/neuron73/nrn/INSTALL/x86_64/bin/nrniv: can't open Batch.hoc
+14 /projects/ps-nsg/home/nsguser/applications/neuron73/nrn/INSTALL/x86_64/bin/nrniv: can't open Batch.hoc
+15 /projects/ps-nsg/home/nsguser/applications/neuron73/nrn/INSTALL/x86_64/bin/nrniv: can't open Batch.hoc
+16 /projects/ps-nsg/home/nsguser/applications/neuron73/nrn/INSTALL/x86_64/bin/nrniv: can't open Batch.hoc
+12 /projects/ps-nsg/home/nsguser/applications/neuron73/nrn/INSTALL/x86_64/bin/nrniv: can't open Batch.hoc
+2 /projects/ps-nsg/home/nsguser/applications/neuron73/nrn/INSTALL/x86_64/bin/nrniv: can't open Batch.hoc
+3 /projects/ps-nsg/home/nsguser/applications/neuron73/nrn/INSTALL/x86_64/bin/nrniv: can't open Batch.hoc
+4 /projects/ps-nsg/home/nsguser/applications/neuron73/nrn/INSTALL/x86_64/bin/nrniv: can't open Batch.hoc
+6 /projects/ps-nsg/home/nsguser/applications/neuron73/nrn/INSTALL/x86_64/bin/nrniv: can't open Batch.hoc
+5 /projects/ps-nsg/home/nsguser/applications/neuron73/nrn/INSTALL/x86_64/bin/nrniv: can't open Batch.hoc
+7 /projects/ps-nsg/home/nsguser/applications/neuron73/nrn/INSTALL/x86_64/bin/nrniv: can't open Batch.hoc
+8 /projects/ps-nsg/home/nsguser/applications/neuron73/nrn/INSTALL/x86_64/bin/nrniv: can't open Batch.hoc
+9 /projects/ps-nsg/home/nsguser/applications/neuron73/nrn/INSTALL/x86_64/bin/nrniv: can't open Batch.hoc
+10 /projects/ps-nsg/home/nsguser/applications/neuron73/nrn/INSTALL/x86_64/bin/nrniv: can't open Batch.hoc
+11 /projects/ps-nsg/home/nsguser/applications/neuron73/nrn/INSTALL/x86_64/bin/nrniv: can't open Batch.hoc
+0 /projects/ps-nsg/home/nsguser/applications/neuron73/nrn/INSTALL/x86_64/bin/nrniv: can't open Batch.hoc
+1 /projects/ps-nsg/home/nsguser/applications/neuron73/nrn/INSTALL/x86_64/bin/nrniv: can't open Batch.hoc
+45 /projects/ps-nsg/home/nsguser/applications/neuron73/nrn/INSTALL/x86_64/bin/nrniv: can't open Batch.hoc
+46 /projects/ps-nsg/home/nsguser/applications/neuron73/nrn/INSTALL/x86_64/bin/nrniv: can't open Batch.hoc
+47 /projects/ps-nsg/home/nsguser/applications/neuron73/nrn/INSTALL/x86_64/bin/nrniv: can't open Batch.hoc
+26 /projects/ps-nsg/home/nsguser/applications/neuron73/nrn/INSTALL/x86_64/bin/nrniv: can't open Batch.hoc
+27 /projects/ps-nsg/home/nsguser/applications/neuron73/nrn/INSTALL/x86_64/bin/nrniv: can't open Batch.hoc
+28 /projects/ps-nsg/home/nsguser/applications/neuron73/nrn/INSTALL/x86_64/bin/nrniv: can't open Batch.hoc
+32 /projects/ps-nsg/home/nsguser/applications/neuron73/nrn/INSTALL/x86_64/bin/nrniv: can't open Batch.hoc
+33 /projects/ps-nsg/home/nsguser/applications/neuron73/nrn/INSTALL/x86_64/bin/nrniv: can't open Batch.hoc
+35 /projects/ps-nsg/home/nsguser/applications/neuron73/nrn/INSTALL/x86_64/bin/nrniv: can't open Batch.hoc
+37 /projects/ps-nsg/home/nsguser/applications/neuron73/nrn/INSTALL/x86_64/bin/nrniv: can't open Batch.hoc
+38 /projects/ps-nsg/home/nsguser/applications/neuron73/nrn/INSTALL/x86_64/bin/nrniv: can't open Batch.hoc
+39 /projects/ps-nsg/home/nsguser/applications/neuron73/nrn/INSTALL/x86_64/bin/nrniv: can't open Batch.hoc
+40 /projects/ps-nsg/home/nsguser/applications/neuron73/nrn/INSTALL/x86_64/bin/nrniv: can't open Batch.hoc
+41 /projects/ps-nsg/home/nsguser/applications/neuron73/nrn/INSTALL/x86_64/bin/nrniv: can't open Batch.hoc
+42 /projects/ps-nsg/home/nsguser/applications/neuron73/nrn/INSTALL/x86_64/bin/nrniv: can't open Batch.hoc
+43 /projects/ps-nsg/home/nsguser/applications/neuron73/nrn/INSTALL/x86_64/bin/nrniv: can't open Batch.hoc
+44 /projects/ps-nsg/home/nsguser/applications/neuron73/nrn/INSTALL/x86_64/bin/nrniv: can't open Batch.hoc
+25 /projects/ps-nsg/home/nsguser/applications/neuron73/nrn/INSTALL/x86_64/bin/nrniv: can't open Batch.hoc
+29 /projects/ps-nsg/home/nsguser/applications/neuron73/nrn/INSTALL/x86_64/bin/nrniv: can't open Batch.hoc
+31 /projects/ps-nsg/home/nsguser/applications/neuron73/nrn/INSTALL/x86_64/bin/nrniv: can't open Batch.hoc
+36 /projects/ps-nsg/home/nsguser/applications/neuron73/nrn/INSTALL/x86_64/bin/nrniv: can't open Batch.hoc
+24 /projects/ps-nsg/home/nsguser/applications/neuron73/nrn/INSTALL/x86_64/bin/nrniv: can't open Batch.hoc
+30 /projects/ps-nsg/home/nsguser/applications/neuron73/nrn/INSTALL/x86_64/bin/nrniv: can't open Batch.hoc
+34 /projects/ps-nsg/home/nsguser/applications/neuron73/nrn/INSTALL/x86_64/bin/nrniv: can't open Batch.hoc
+[comet-25-33.sdsc.edu:14112] 47 more processes have sent help message help-mpi-api.txt / mpi-abort
+[comet-25-33.sdsc.edu:14112] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages
