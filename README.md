@@ -10,3 +10,7 @@ Before this notebook can be used to run NSG-R jobs:
   - create a new application at Developer->Application Management (Create New Application)
   - save the Application Key for use in REST requests
 - A jupyter notebook server must be installed to run the notebook
+
+This notebook is inspired from the IPython tutorial notebook present in the NSG portal
+
+
